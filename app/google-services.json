@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800843988817",
+    "project_id": "recyclerview-6ddfe3b2",
+    "storage_bucket": "recyclerview-6ddfe3b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800843988817:android:40b0d72a00aba189619d70",
+        "android_client_info": {
+          "package_name": "com.example.recyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrQos8erN5uuu_Q_rTAhaplvbeO62STE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
